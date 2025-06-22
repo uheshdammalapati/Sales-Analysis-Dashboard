@@ -1,50 +1,64 @@
 # 📊 Sales Analysis & Forecasting Dashboard
 
-This project is an interactive Power BI dashboard built for sales data analysis and forecasting.
+An interactive Power BI dashboard project to analyze and forecast sales performance using real-world data.
+
+---
 
 ## 🚀 Features
 
-- 💰 **KPI Cards**: Total Sales, Total Profit, Total Quantity
-- 📈 **Line Chart**: Monthly Sales trend with forecast
-- 📦 **Bar Chart**: Top 10 Sub-Categories by Sales
-- 🧭 **Slicers**: Region, Segment, Category, Order Date
-- 📊 **Forecasting**: Future sales trends using built-in analytics
+- 💰 **KPI Cards**: Total Sales, Profit, and Quantity
+- 📈 **Line Chart with Forecasting**: Sales trend over time with future projection
+- 📦 **Top 10 Sub-Categories by Sales**: Sorted horizontal bar chart
+- 🧭 **Interactive Slicers**: Region, Segment, Category, and Order Date
+- 📊 **Dynamic Filtering**: Visuals respond to slicer selections for better insights
 
 ---
 
 ## 🛠️ Tools Used
 
-- Power BI
-- Excel (for data cleaning)
-- SQL (optional for future version)
-- GitHub for version control
+- **Power BI** – Data visualization and dashboard creation  
+- **Excel** – Data cleaning and preprocessing  
+- **GitHub** – Version control and project sharing
+
+---
+
+## 📁 Project Files
+
+| File Name               | Description                              |
+|-------------------------|------------------------------------------|
+| `Sales_Data.xlsx`       | Cleaned sales dataset used in the project  
+| `Sales_Analysis.pbix`   | Power BI dashboard file  
+| `dashboard.png`         | Visual preview of the dashboard  
 
 ---
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot](./dashboard.png)  
-
+![Dashboard Screenshot](./dashboard.png)
 
 ---
 
-## 📁 File Info
+## 📌 Project Summary
 
-- `Sales_Analysis.pbix`: Power BI project file
-- `Sales_Data.xlsx`: Original dataset 
-- `dashboard.png`: Dashboard visual preview
+This project simulates a real-world sales dashboard with forecasting capabilities. It enables users to:
+- Analyze total sales, profits, and product quantities
+- Explore monthly sales patterns and future trends
+- Identify top-selling product sub-categories
+- Filter data dynamically by multiple business dimensions
+
+The dashboard is designed to give business users **quick, actionable insights** to make data-driven decisions.
 
 ---
 
 ## 👨‍💼 About Me
 
-I’m Dammalapati Uhesh, a Computer Science graduate with a passion for data analytics.  
-Actively looking for full-time roles in Data Analytics or Business Intelligence.
+I'm **Dammalapati Uhesh**, a Computer Science graduate passionate about turning data into insights.  
+Currently **seeking full-time roles** in **Data Analytics** or **Business Intelligence**.
 
-📧 uheshchowdary@gmail.com  
-🔗 [LinkedIn](www.linkedin.com/in/uhesh-dammalapati-955bb8243)  
+📫 uheshchowdary@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/uhesh-dammalapati-955bb8243)  
 🌐 [GitHub](https://github.com/uheshdammalapati)
 
 ---
 
-⭐️ Feel free to fork, clone, and explore this project!
+⭐️ Feel free to fork this repo, explore the dashboard, and connect with me!
