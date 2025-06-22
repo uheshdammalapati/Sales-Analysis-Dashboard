@@ -24,7 +24,7 @@ This project is an interactive Power BI dashboard built for sales data analysis 
 ## 📷 Dashboard Preview
 
 ![Dashboard Screenshot](./dashboard.png)  
-_(Upload your actual screenshot and rename to `dashboard.png`)_
+
 
 ---
 
