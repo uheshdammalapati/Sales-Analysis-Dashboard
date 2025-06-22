@@ -31,7 +31,7 @@ This project is an interactive Power BI dashboard built for sales data analysis 
 ## 📁 File Info
 
 - `Sales_Analysis.pbix`: Power BI project file
-- `Sales_Data.xlsx`: Original dataset (if available)
+- `Sales_Data.xlsx`: Original dataset 
 - `dashboard.png`: Dashboard visual preview
 
 ---
