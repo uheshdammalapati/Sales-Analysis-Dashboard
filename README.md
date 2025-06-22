@@ -42,7 +42,7 @@ I’m Dammalapati Uhesh, a Computer Science graduate with a passion for data ana
 Actively looking for full-time roles in Data Analytics or Business Intelligence.
 
 📧 uheshchowdary@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/uheshdammalapati)  
+🔗 [LinkedIn](www.linkedin.com/in/uhesh-dammalapati-955bb8243)  
 🌐 [GitHub](https://github.com/uheshdammalapati)
 
 ---
